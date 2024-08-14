@@ -1,0 +1,14 @@
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\bin\Debug\net6.0\CSharpSamples.exe
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\bin\Debug\net6.0\CSharpSamples.deps.json
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\bin\Debug\net6.0\CSharpSamples.runtimeconfig.json
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\bin\Debug\net6.0\CSharpSamples.dll
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\bin\Debug\net6.0\CSharpSamples.pdb
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.AssemblyInfoInputs.cache
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.AssemblyInfo.cs
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.csproj.CoreCompileInputs.cache
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.dll
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\refint\CSharpSamples.dll
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.pdb
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.genruntimeconfig.cache
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\ref\CSharpSamples.dll
