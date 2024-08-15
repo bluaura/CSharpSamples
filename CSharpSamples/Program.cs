@@ -20,5 +20,7 @@ class Program
 
         Console.WriteLine("Hidden File Check");
         HiddenFileCheckSample.HiddenFileCheckSample1();
+
+        TraverseDirectorySample.TraverseDirectory("C:\\Users\\c\\Downloads");
     }
 }
