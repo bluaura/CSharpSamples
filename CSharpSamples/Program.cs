@@ -11,5 +11,8 @@ class Program
 
         Console.WriteLine("StreamReader Sample");
         StreamReaderSample.StreamReaderSample1();
+
+        Console.WriteLine("TrimEnd sample");
+        TrimEndSample.TrimEndSample1();
     }
 }

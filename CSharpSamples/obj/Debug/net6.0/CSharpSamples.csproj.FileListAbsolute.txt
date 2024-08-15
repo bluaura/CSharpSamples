@@ -12,3 +12,4 @@ C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\refint\CSharp
 C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.pdb
 C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.genruntimeconfig.cache
 C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\ref\CSharpSamples.dll
+C:\Workspaces\C_Sharp\CSharpSamples\CSharpSamples\obj\Debug\net6.0\CSharpSamples.sourcelink.json

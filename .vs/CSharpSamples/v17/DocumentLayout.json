@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\trimendsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\trimendsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\streamreadersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\streamreadersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TrimEndSample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TrimEndSample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\TrimEndSample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TrimEndSample.cs",
+              "RelativeToolTip": "CSharpSamples\\TrimEndSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:47:23.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StreamReaderSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamReaderSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamReaderSample.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "CSharpSamples\\StreamReaderSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:45:44.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:45:44.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StreamWriteSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamWriteSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamWriteSample.cs",
@@ -51,8 +67,7 @@
               "RelativeToolTip": "CSharpSamples\\StreamWriteSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:43:18.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:43:18.369Z"
             },
             {
               "$type": "Document",
@@ -62,7 +77,7 @@
               "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
               "RelativeToolTip": "CSharpSamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T10:42:40.527Z",
               "EditorCaption": ""
