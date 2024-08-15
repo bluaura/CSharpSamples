@@ -14,5 +14,11 @@ class Program
 
         Console.WriteLine("TrimEnd sample");
         TrimEndSample.TrimEndSample1();
+
+        Console.WriteLine("Hidden Directory Check");
+        HiddenDirecotyCheckSample.HiddenDirectorySample1();
+
+        Console.WriteLine("Hidden File Check");
+        HiddenFileCheckSample.HiddenFileCheckSample1();
     }
 }

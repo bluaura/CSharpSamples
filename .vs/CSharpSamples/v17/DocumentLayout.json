@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\hiddenfilechecksample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\hiddenfilechecksample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\hiddendirecotychecksample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\hiddendirecotychecksample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\trimendsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\trimendsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HiddenFileCheckSample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileCheckSample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\HiddenFileCheckSample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileCheckSample.cs",
+              "RelativeToolTip": "CSharpSamples\\HiddenFileCheckSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:21:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiddenDirecotyCheckSample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenDirecotyCheckSample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\HiddenDirecotyCheckSample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenDirecotyCheckSample.cs",
+              "RelativeToolTip": "CSharpSamples\\HiddenDirecotyCheckSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:19:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TrimEndSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TrimEndSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\TrimEndSample.cs",
@@ -42,12 +76,11 @@
               "RelativeToolTip": "CSharpSamples\\TrimEndSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T05:47:23.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T05:47:23.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StreamReaderSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamReaderSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamReaderSample.cs",
@@ -59,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StreamWriteSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamWriteSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamWriteSample.cs",
@@ -77,7 +110,7 @@
               "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
               "RelativeToolTip": "CSharpSamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T10:42:40.527Z",
               "EditorCaption": ""
