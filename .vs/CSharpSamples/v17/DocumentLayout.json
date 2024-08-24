@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\portgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\portgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\prodconsumersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\prodconsumersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\traversedirectorysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\traversedirectorysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\traversefilesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\traversefilesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\hiddenfilechecksample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,32 +67,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TraverseDirectorySample.cs",
-              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseDirectorySample.cs",
-              "RelativeDocumentMoniker": "CSharpSamples\\TraverseDirectorySample.cs",
-              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseDirectorySample.cs",
-              "RelativeToolTip": "CSharpSamples\\TraverseDirectorySample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
+              "Title": "PortGenerator.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\PortGenerator.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\PortGenerator.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\PortGenerator.cs",
+              "RelativeToolTip": "CSharpSamples\\PortGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T12:28:57.497Z",
+              "WhenOpened": "2024-08-24T00:19:36.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TraverseFileSample.cs",
-              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseFileSample.cs",
-              "RelativeDocumentMoniker": "CSharpSamples\\TraverseFileSample.cs",
-              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseFileSample.cs",
-              "RelativeToolTip": "CSharpSamples\\TraverseFileSample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "DocumentIndex": 4,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Consumer.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\Consumer.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Consumer.cs",
+              "RelativeToolTip": "CSharpSamples\\Consumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T07:44:35.927Z",
+              "WhenOpened": "2024-08-16T04:15:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Producer.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\Producer.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Producer.cs",
+              "RelativeToolTip": "CSharpSamples\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:15:19.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProdConsumerSample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProdConsumerSample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\ProdConsumerSample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProdConsumerSample.cs",
+              "RelativeToolTip": "CSharpSamples\\ProdConsumerSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:14:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraverseDirectorySample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseDirectorySample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\TraverseDirectorySample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseDirectorySample.cs",
+              "RelativeToolTip": "CSharpSamples\\TraverseDirectorySample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:28:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HiddenFileCheckSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileCheckSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenFileCheckSample.cs",
@@ -88,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "HiddenDirecotyCheckSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenDirecotyCheckSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenDirecotyCheckSample.cs",
@@ -100,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "TrimEndSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TrimEndSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\TrimEndSample.cs",
@@ -112,7 +164,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
+              "RelativeToolTip": "CSharpSamples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:42:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TraverseFileSample.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseFileSample.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\TraverseFileSample.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseFileSample.cs",
+              "RelativeToolTip": "CSharpSamples\\TraverseFileSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:44:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "StreamReaderSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamReaderSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamReaderSample.cs",
@@ -124,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "StreamWriteSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamWriteSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamWriteSample.cs",
@@ -133,19 +210,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T10:43:18.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
-              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
-              "RelativeToolTip": "CSharpSamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:42:40.527Z",
-              "EditorCaption": ""
             }
           ]
         }
