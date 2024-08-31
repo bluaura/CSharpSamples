@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\filewatcherprodconsthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\filewatcherprodconsthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\producerconsumerfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\producerconsumerfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\filesystemwatcherexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\filesystemwatcherexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\directoryoutexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\directoryoutexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\hiddenfileanddirectoryscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\hiddenfileanddirectoryscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\prodconsumersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\prodconsumersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\directoryoutexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\directoryoutexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\streamreadersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\streamwritesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\streamwritesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\hiddenfileanddirectoryscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\hiddenfileanddirectoryscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\writehiddenfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FileWatcherProdConsThread.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\FileWatcherProdConsThread.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\FileWatcherProdConsThread.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\FileWatcherProdConsThread.cs",
+              "RelativeToolTip": "CSharpSamples\\FileWatcherProdConsThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:43:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProducerConsumerFileWatcher.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProducerConsumerFileWatcher.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\ProducerConsumerFileWatcher.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProducerConsumerFileWatcher.cs",
               "RelativeToolTip": "CSharpSamples\\ProducerConsumerFileWatcher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T10:24:09.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "HiddenFileAndDirectoryScan.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileAndDirectoryScan.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenFileAndDirectoryScan.cs",
@@ -112,20 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
               "RelativeToolTip": "CSharpSamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T10:42:40.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StreamWriteSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamWriteSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamWriteSample.cs",
@@ -133,12 +146,11 @@
               "RelativeToolTip": "CSharpSamples\\StreamWriteSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:43:18.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:43:18.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProdConsumerSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProdConsumerSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\ProdConsumerSample.cs",
@@ -151,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DirectoryOutExample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\DirectoryOutExample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\DirectoryOutExample.cs",
@@ -159,8 +171,7 @@
               "RelativeToolTip": "CSharpSamples\\DirectoryOutExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T14:37:18.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T14:37:18.455Z"
             },
             {
               "$type": "Document",
@@ -172,8 +183,7 @@
               "RelativeToolTip": "CSharpSamples\\WriteHiddenFiles.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAACkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:26:44.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:26:44.039Z"
             },
             {
               "$type": "Document",
@@ -189,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StreamReaderSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamReaderSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamReaderSample.cs",
@@ -197,8 +207,7 @@
               "RelativeToolTip": "CSharpSamples\\StreamReaderSample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:45:44.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:45:44.873Z"
             },
             {
               "$type": "Document",
@@ -283,40 +292,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T07:44:35.927Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "bcf858d2-24f4-45d1-8447-6fcccab6b844",
-        "Display": 0,
-        "X": 2300,
-        "Y": 60,
-        "Width": 1489,
-        "Height": 1104,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileSystemWatcherExample.cs",
-              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\FileSystemWatcherExample.cs",
-              "RelativeDocumentMoniker": "CSharpSamples\\FileSystemWatcherExample.cs",
-              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\FileSystemWatcherExample.cs",
-              "RelativeToolTip": "CSharpSamples\\FileSystemWatcherExample.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAwEIAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T09:43:31.867Z",
-              "EditorCaption": ""
             }
           ]
         }

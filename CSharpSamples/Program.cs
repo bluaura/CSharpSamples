@@ -43,6 +43,7 @@ class Program
         //      HiddenFileAndDirectoryScan.WriteHiddenFoldersAndFilesToFile(drivePath);
 
         //        FileSystemWatcherExample.FileSystemWatcherFunction();
-        ProducerConsumerFileWatcher.FileSystemWatcherExample();
+//        ProducerConsumerFileWatcher.FileSystemWatcherExample();
+        FileWatcherProdConsThread.startWatching();
     }
 }
