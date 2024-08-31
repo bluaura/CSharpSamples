@@ -28,8 +28,21 @@ class Program
         TraverseDirectorySample.TraverseDirectory("C:\\");
         */
 
-        PortGenerator.GetPort();
-//        Console.WriteLine("Producer Consumer Sample");
-//        ProdConsumerSample.ProducerConsumerSample();
+        //        PortGenerator.GetPort();
+        //        Console.WriteLine("Producer Consumer Sample");
+        //        ProdConsumerSample.ProducerConsumerSample();
+
+        //        DirectoryOutExample.PrintDirectory("C:\\Windows");
+
+        //        string drivePath = @"C:\"; // 탐색할 드라이브 경로
+
+        // 숨김 폴더 및 파일 경로를 출력할 파일 경로를 설정합니다.
+
+
+        // 숨김 폴더와 파일을 파일에 기록하는 함수를 호출합니다.
+        //      HiddenFileAndDirectoryScan.WriteHiddenFoldersAndFilesToFile(drivePath);
+
+        //        FileSystemWatcherExample.FileSystemWatcherFunction();
+        ProducerConsumerFileWatcher.FileSystemWatcherExample();
     }
 }
