@@ -25,6 +25,7 @@ class Program
         {
             // 프로그램의 주 로직 실행
             Console.WriteLine("프로그램 실행 중...");
+            ProcessExecuteWrpperClass.Run();
             Console.ReadLine();  // 프로그램 유지
         }
         finally

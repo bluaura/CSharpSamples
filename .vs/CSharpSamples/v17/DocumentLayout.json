@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\processexecutewrpperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\processexecutewrpperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|c:\\workspaces\\c_sharp\\csharpsamples\\csharpsamples\\executeonlyoneprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CCB0B0-FC18-449F-8A00-4FF022776E21}|CSharpSamples\\CSharpSamples.csproj|solutionrelative:csharpsamples\\executeonlyoneprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProcessExecuteWrpperClass.cs",
+              "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProcessExecuteWrpperClass.cs",
+              "RelativeDocumentMoniker": "CSharpSamples\\ProcessExecuteWrpperClass.cs",
+              "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProcessExecuteWrpperClass.cs",
+              "RelativeToolTip": "CSharpSamples\\ProcessExecuteWrpperClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:19:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExecuteOnlyOneProgram.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ExecuteOnlyOneProgram.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\ExecuteOnlyOneProgram.cs",
@@ -98,12 +115,11 @@
               "RelativeToolTip": "CSharpSamples\\ExecuteOnlyOneProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:53:16.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T00:53:16.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FileWatcherProdConsThread.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\FileWatcherProdConsThread.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\FileWatcherProdConsThread.cs",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProducerConsumerFileWatcher.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProducerConsumerFileWatcher.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\ProducerConsumerFileWatcher.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HiddenFileAndDirectoryScan.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileAndDirectoryScan.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenFileAndDirectoryScan.cs",
@@ -145,14 +161,14 @@
               "RelativeDocumentMoniker": "CSharpSamples\\Program.cs",
               "ToolTip": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Program.cs",
               "RelativeToolTip": "CSharpSamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T10:42:40.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StreamWriteSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamWriteSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamWriteSample.cs",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProdConsumerSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\ProdConsumerSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\ProdConsumerSample.cs",
@@ -176,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DirectoryOutExample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\DirectoryOutExample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\DirectoryOutExample.cs",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WriteHiddenFiles.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\WriteHiddenFiles.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\WriteHiddenFiles.cs",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HiddenFileCheckSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenFileCheckSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenFileCheckSample.cs",
@@ -212,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StreamReaderSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\StreamReaderSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\StreamReaderSample.cs",
@@ -224,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TraverseDirectorySample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseDirectorySample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\TraverseDirectorySample.cs",
@@ -236,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Producer.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Producer.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\Producer.cs",
@@ -248,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HiddenDirecotyCheckSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\HiddenDirecotyCheckSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\HiddenDirecotyCheckSample.cs",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PortGenerator.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\PortGenerator.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\PortGenerator.cs",
@@ -272,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Consumer.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\Consumer.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\Consumer.cs",
@@ -284,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TrimEndSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TrimEndSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\TrimEndSample.cs",
@@ -296,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TraverseFileSample.cs",
               "DocumentMoniker": "C:\\Workspaces\\C_Sharp\\CSharpSamples\\CSharpSamples\\TraverseFileSample.cs",
               "RelativeDocumentMoniker": "CSharpSamples\\TraverseFileSample.cs",
