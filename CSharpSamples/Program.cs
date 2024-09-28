@@ -4,11 +4,14 @@ using System.IO;
 
 class Program
 {
+    // Mutex 예제
     // 전역 Mutex 선언
-    static Mutex mutex = null;
+    //
+    // static Mutex mutex = null;
 
     static void Main()
     {
+        /* Mutex 예제
         const string mutexName = "Global\\MyTestProgram";  // Mutex 이름 설정 (전역으로 사용하기 위해 "Global\\" 접두사 추가)
 
         // 뮤텍스를 얻으려고 시도함
@@ -35,7 +38,7 @@ class Program
             {
                 mutex.ReleaseMutex();
             }
-        }
+        }*/
 
 
         /*
@@ -78,6 +81,33 @@ class Program
         //        ProducerConsumerFileWatcher.FileSystemWatcherExample();
         //        FileWatcherProdConsThread.startWatching();
 
+        List<string> oldList = new List<string> { "Apple", "Banana", "Orange" };
+        List<string> newList = new List<string> { "Apple", "Banana", "Grape", "Mango" };
 
+        CompareStringLists(oldList, newList);
+    }
+
+    static void CompareStringLists(List<string> oldList, List<string> newList)
+    {
+        // 추가된 문자열
+        var added = newList.Except(oldList).ToList();
+        // 삭제된 문자열
+        var removed = oldList.Except(newList).ToList();
+
+        Console.WriteLine("added list count : " + added.Count);
+        Console.WriteLine("removed list count : " + removed.Count);
+        Console.WriteLine();
+
+        Console.WriteLine("Added Strings:");
+        foreach (var add in added)
+        {
+            Console.WriteLine(add);
+        }
+
+        Console.WriteLine("\nRemoved Strings:");
+        foreach (var remove in removed)
+        {
+            Console.WriteLine(remove);
+        }
     }
 }
