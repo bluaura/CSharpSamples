@@ -81,10 +81,71 @@ class Program
         //        ProducerConsumerFileWatcher.FileSystemWatcherExample();
         //        FileWatcherProdConsThread.startWatching();
 
+        /*
         List<string> oldList = new List<string> { "Apple", "Banana", "Orange" };
         List<string> newList = new List<string> { "Apple", "Banana", "Grape", "Mango" };
 
         CompareStringLists(oldList, newList);
+        */
+
+        // 파일 접근 권한 테스트
+        Console.WriteLine("파일 접근 권한 테스트");
+        string filePath = @"C:\\Users\\Default\\NTUSER.DAT";
+
+        try
+        {
+            FileAccessTest.CheckFileAccess(filePath);
+        }
+        catch (UnauthorizedAccessException)
+        {
+            Console.WriteLine("파일에 접근할 권한이 없습니다.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"오류 발생: {ex.Message}");
+        }
+
+        // 디렉토리 접근 권한 테스트
+        Console.WriteLine("디렉토리 접근 권한 테스트");
+        string directoryPath = @"C:\\Users\\Default";
+
+        try
+        {
+            DirectoryAccessTest.CheckDirectoryAccess(directoryPath);
+        }
+        catch (UnauthorizedAccessException)
+        {
+            Console.WriteLine("디렉토리에 접근할 권한이 없습니다.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"오류 발생: {ex.Message}");
+        }
+
+        // Junction Test
+        Console.WriteLine("Junction Test");
+        string juctionDirectoryPath = @"C:\\Users\\Default\\Cookies";
+
+        if (JunctionTest.IsJunction(juctionDirectoryPath))
+        {
+            Console.WriteLine("이 디렉터리는 JUNCTION입니다.");
+        }
+        else
+        {
+            Console.WriteLine("이 디렉터리는 JUNCTION이 아닙니다.");
+        }
+
+        // 심볼릭 링크 테스트
+        string symFilePath = @"C:\\Users\\c\\Links\\Downloads.lnk";
+
+        if (SymbolicLinkTest.IsSymbolicLink(symFilePath))
+        {
+            Console.WriteLine("이 파일은 심볼릭 링크입니다.");
+        }
+        else
+        {
+            Console.WriteLine("이 파일은 심볼릭 링크가 아닙니다.");
+        }
     }
 
     static void CompareStringLists(List<string> oldList, List<string> newList)
